@@ -1,0 +1,95 @@
+<style>
+
+    .Uber-button
+    {
+        background-color:black;
+        color:white;
+        border:none;
+        height:40px;
+        width:110px;
+        cursor:pointer;
+    }
+    
+    .Amazon
+    {
+        background-color:rgb(255,216,20);
+        border:none;
+        height:30px;
+        width:120px;
+        border-radius:15px;
+        cursor
+    }
+    .anchor
+    {
+        color:rgb(0,113,133);
+    }
+    
+    .paragraph
+    {
+        font-size:24px;
+        font-weight:bold;
+    }
+    
+    .price-tag
+    {
+        color:rgb(0, 118, 0);
+        font-weight:bold;
+    }
+    
+    .Free
+    {
+        font-weight:bold;
+    }
+    
+    .AddtoCart
+    {
+        background-color:rgb(255,216,20);
+        color:black;
+        height:30px;
+        width:110px;
+        border:none;
+        border-radius:15px;
+        font-weight:bold;
+        margin-right:8px;
+    }
+    
+    .Buynow
+    {
+        background-color:rgb(255,164,28);
+        color:black;
+        height:30px;
+        width:110px;
+        border:none;
+        border-radius:15px;
+        font-weight:bold;
+    }
+</style>
+
+<button class="Uber-button">Request now</button>
+
+<button class="Amazon">Add to Cart</button>
+
+<br>
+
+<a href="https://www.amazon.com/" class="anchor">Back to Amazon</a>
+
+<p class="paragraph">Nike Black Running Shoes</p>
+
+<p class="price-tag">$39 - in stock.</p>
+
+<p class="Free">Free delivery tomorrow.
+<br>
+<br>
+
+<button class="AddtoCart">Add to Cart</button>
+
+<button class="Buynow">Buy now</button>
+
+
+
+
+
+
+
+
+
